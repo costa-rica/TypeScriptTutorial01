@@ -2,6 +2,9 @@
 
 This project is designed to follow a Tutorial on TypeScript. It will have the most basic way to create a TypeScript project.
 
+Tutorial YouTubeVideo: https://www.youtube.com/watch?v=K01hLNDdqg4
+Lesson: https://www.boot.dev/lessons/b00fcdca-6f74-4507-b1af-61f1e8048a16
+
 ## Setup
 
 1. create folder
